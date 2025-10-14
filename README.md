@@ -5,7 +5,7 @@ Comparação de cartas de países com base em múltiplos atributos.
 
 ---
 
-## 🗺️ Atributos disponíveis
+##  Atributos disponíveis
 
 1. **População** (milhões) – quanto **maior**, melhor  
 2. **Área** (km²) – quanto **maior**, melhor  
@@ -14,13 +14,11 @@ Comparação de cartas de países com base em múltiplos atributos.
 
 ---
 
-## ⚙️ Como compilar e executar
+##  Como compilar e executar
 
-### 🔧 Compilando
+###  Compilando
 
 Use o seguinte comando no terminal:
 
 ```bash
 gcc super_trunfo.c -o super_trunfo
-
-./super_trunfo
